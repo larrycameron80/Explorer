@@ -2,17 +2,17 @@
 Forbole Block Explorer for Cosmos
 
 ## Projects running on mainnets
-[Explore Cosmos Hub (cosmoshub-1) with The Big Dipper](https://cosmos.bigdipper.live)
+[Explore Cosmos Hub (cosmoshub-1) with Spend Explorer](https://cosmos.bigdipper.live)
 
-[Explore IRISnet (irishub) with The Big Dipper](https://iris.bigdipper.live)
+[Explore IRISnet (irishub) with Spend Explorer](https://iris.bigdipper.live)
 
-[Explore Terra (columbus-1) with The Big Dipper](https://terra.bigdipper.live)
+[Explore Terra (columbus-1) with Spend Explorer](https://terra.bigdipper.live)
 
 ## Projects with testnets
 
 [Sentinel testnet](https://explorer.sentinel.co/)
 
-## How to run The Big Dipper
+## How to run Spend Explorer
 
 1. Copy `settings.json.default` to `settings.json`.
 2. Update the RPC and LCD URLs.
@@ -38,7 +38,7 @@ It will create a packaged Node JS tarball at `../output`. Deploy that packaged N
 ---
 ## Donations :pray:
 
-The Big Dipper is always free and open. Anyone can use to monitor available Cosmos hub or zones, or port to your own chain built with Cosmos SDK. We welcome any supports to help us improve this project.
+Spend Explorer is always free and open. Anyone can use to monitor available Cosmos hub or zones, or port to your own chain built with Cosmos SDK. We welcome any supports to help us improve this project.
 
 ATOM: `cosmos1n67vdlaejpj3uzswr9qapeg76zlkusj5k875ma`\
 BTC: `1HrTuvS83VoUVA79wTifko69ziWTjEXzQS`\

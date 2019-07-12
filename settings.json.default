@@ -12,7 +12,7 @@
         "bech32PrefixValPub": "cosmosvaloperpub",
         "bech32PrefixConsAddr": "cosmosvalcons",
         "bech32PrefixConsPub": "cosmosvalconspub",
-        "stakingDenom": "ATOM",
+        "stakingDenom": "SPEND",
         "stakingFraction": 1000000,
         "coingeckoId": "cosmos"
     },

@@ -1,5 +1,5 @@
-# Big Dipper :sparkles:
-Forbole Block Explorer for Spend Chain
+# Spendchain Block Explorer
+Forbole Block Explorer forked for Spend Chain
 
 ## Projects running on mainnets
 [Explore Cosmos Hub (cosmoshub-1) with Spend Explorer](https://cosmos.bigdipper.live)

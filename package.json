@@ -19,7 +19,7 @@
     "js-sha256": "^0.9.0",
     "ledger-cosmos-js": "git+https://github.com/cosmos/ledger-cosmos-js.git",
     "meteor-node-stubs": "^0.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.23",
     "numbro": "^2.1.2",
     "plottable": "^3.8.6",
